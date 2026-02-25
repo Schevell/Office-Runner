@@ -29,13 +29,17 @@ is not prohibited eventhough a merge is unlikely.
 
 ### Screenshots
 <div style="margin-left: 200px">
-<img src="/docs/IMG_1489.jpeg" width="500"></div>
+<img src="/docs/IMG_1494.jpeg" width="500"></div>
 <hr>
 <div>
-<img src="/docs/IMG_1490.jpeg" width="500"></div>
+<img src="/docs/IMG_1495.jpeg" width="500"></div>
 <hr>
 <div>
-<img src="/docs/IMG_1493.jpeg" width="500">
+<img src="/docs/IMG_1496.jpeg" width="500">
+</div>
+<hr>
+<div>
+<img src="/docs/IMG_1498.jpeg" width="500">
 </div>
 
 ---
