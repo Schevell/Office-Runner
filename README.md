@@ -1,5 +1,5 @@
 # Office Runner
-### Latest Version: 0.2.9 (Alpha)
+### Latest Version: 0.2.10 (Alpha)
 ## About
 **Office Runner** is a singleplayer 3D endless runner game currently in early development.
 
