@@ -4,10 +4,9 @@
 **Office Runner** is a singleplayer 3D endless runner game currently in early development.
 
 ## Project Status
-Working on **Office Runner** is currently paused, due to missing time and other issues, listed below.
 **Office Runner** is still in early development.
 ## Gameplay
-**Office Runner's** gameplay focuses on the players decisions and its impacts.
+**Office Runner's** gameplay focuses on the endurance.
 ## Controls
 - Dodge Obstacles: `A`, `D`
 - Jump: `Space`
