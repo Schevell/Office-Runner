@@ -14,7 +14,7 @@ Working on **Office Runner** is currently paused, due to missing time and other 
 ## How to test?
 1. Click on the following [link](https://playcanvas.com/project/1466556/overview/office-runner)
 2. Click the orange 'Editor' button.
-3. In the editor, click the 'Launch' button, located in the right corner.
+3. In the editor, click the 'Launch' button, located in the top right corner.
 - Please take note of the fact that the game is currently facing many difficulties, so at the time you are reading this, it could be
 facing massive issues (will be fixed soon).
 
