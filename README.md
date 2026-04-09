@@ -4,7 +4,7 @@
 **Office Runner** is a singleplayer 3D endless runner game currently in early development.
 
 ## Project Status
-**Office Runner** is still in early development.
+**Office Runner**'s Development is currently paused, due to Cyberpunk: Retribution's development is or seems more important.
 ## Gameplay
 **Office Runner's** gameplay focuses on the endurance.
 ## Controls
